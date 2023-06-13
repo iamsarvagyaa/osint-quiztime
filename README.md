@@ -1,4 +1,4 @@
-# QuizTime
+# OSINT Quiz Time
 
 Are you looking to improve your verification and geolocation skills? If so, you might want to check out `Quiztime` challenges. These challenges offer a great opportunity to practice these important skills `(geolocation, OSINT)` in a fun and engaging way. If you're not familiar with `Quiztime`, you can learn more by following the Verification Quiz Bot on Twitter at [Verification Quiz Bot](https://twitter.com/Quiztime). This account provides regular updates on new challenges and offers tips and advice for improving your performance. In this repository, you'll find a collection of solutions to `Quiztime` challenges.
 
