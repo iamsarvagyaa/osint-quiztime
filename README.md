@@ -7,5 +7,6 @@ I created this repository because I love to solve these challenges and wanted to
 - [03 June 2020](./solutions/03-JUNE-2020.md) : Added `Quiztime` challenge solutions for 03 June 2020.
 - [30 August 2017](./solutions/30-AUGUST-2017.md) : Added `Quiztime` challenge solutions for 30 August 2017.
 - [09 April 2021](./solutions/09-APRIL-2021.md) : Added `Quiztime` challenge solutions for 09 April 2021.
+- [06 June 2023](./solutions/06-JUNE-2023.md) : Added `Quiztime` challenge solutions for 06 June 2023.
 
 > :mega: Wanna talk with me? Disturb me at iamsarvagyaa. Thank You!
